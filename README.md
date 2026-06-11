@@ -11,7 +11,6 @@ a comprehensive data visualization dashboard.
 
 ---
 
-## Tasks Completed
 
 ### Task 1: Web Scraping
 - Scraped posts from Reddit's r/technology subreddit (Hot, New, Top categories)
